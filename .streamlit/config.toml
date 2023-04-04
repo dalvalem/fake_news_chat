@@ -1,0 +1,9 @@
+[browser]
+gatherUsageStats = false
+serverPort = 8501
+
+[theme]
+font = "monospace"
+base = "dark"
+#primaryColor = "light-blue"
+
