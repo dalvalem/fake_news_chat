@@ -2,3 +2,5 @@ openai
 newspaper3k
 joblib
 scikit-learn
+googletrans @ git+https://github.com/ssut/py-googletrans.git@1ed95815f3ae2945ecfc5f7d29d0bde6ae1fd34c
+
