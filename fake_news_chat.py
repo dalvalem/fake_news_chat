@@ -16,7 +16,7 @@ def initialize_streamlit():
     st.markdown(
         """
         Programul de detectie a stirilor false este in proba: puteti trimite evaluari si sugestii la intelinkgov@gmail.com\n
-        ATENTIE: Acuratetea programului este de 92,4% deci se asteapta unele erori de fals REAL sau fals FAKE......
+        ATENTIE: Acuratetea programului este de 92,4% deci se asteapta unele erori de fals REAL sau fals FAKE......\n
         Explicatie: eticheta fake este data de cate ori gaseste in articol elemente false sau stirea contine opinii ori altceva care nu este considerat stire\n
         Introdu linkul stirii pe care vrei sa o evaluezi:\n
         """
